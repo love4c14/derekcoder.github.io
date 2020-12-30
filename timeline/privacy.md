@@ -1,3 +1,5 @@
+# Time-Line
+
 ## Privacy Policy
 
 Time-Line is an app that can be used to keep track of the timelines. You can create different timelines to chronologically record the events associated with them.
